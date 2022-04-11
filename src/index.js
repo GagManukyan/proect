@@ -14,6 +14,8 @@ import {BrowserRouter as Router, Link, Route, Routes} from "react-router-dom";
 import ButtonFilter from "./components/buttonFilter";
 
 const App = () => {
+    {
+        console.log(123)}
     return(
         <div className="global">
 
